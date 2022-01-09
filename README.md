@@ -102,11 +102,11 @@
 >
 > #### 2022.1.8 토
 >
-> > 1. 같은 숫자는 싫어
-> > 2. 최소 직사각형
-> > 3. 나누어 떨어지는 숫자 배열
-> > 4. 두 정수 사이의 합
-> > 5. 약수의 개수와 덧셈
+> > 1. 같은 숫자는 싫어 :pencil2: [풀이](https://philosopherprogrammer.com/77) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EA%B0%99%EC%9D%80%EC%88%AB%EC%9E%90%EB%8A%94%EC%8B%AB%EC%96%B4)
+> > 2. 최소 직사각형 :pencil2: [풀이](https://philosopherprogrammer.com/80) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95)
+> > 3. 나누어 떨어지는 숫자 배열 :pencil2: [풀이](https://philosopherprogrammer.com/78) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%98%EB%88%84%EC%96%B4%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4)
+> > 4. 두 정수 사이의 합 :pencil2: [풀이](https://philosopherprogrammer.com/76) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%91%90%EC%A0%95%EC%88%98%EC%82%AC%EC%9D%B4%EC%9D%98%ED%95%A9)
+> > 5. 약수의 개수와 덧셈 :pencil2: [풀이](https://philosopherprogrammer.com/79) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88)
 
 #### 2022년 1월 2주차
 

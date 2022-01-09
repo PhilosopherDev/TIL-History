@@ -112,4 +112,5 @@
 
 > #### 2022.1.9 일
 >
-> > 1.
+> > 1. Blog <=> Github 동기화
+> > 2. 566 Reshape the Matrix :pencil2: [풀이](https://philosopherprogrammer.com/81) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/566)

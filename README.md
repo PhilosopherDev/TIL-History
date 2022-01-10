@@ -114,3 +114,11 @@
 >
 > > 1. Blog <=> Github 동기화
 > > 2. 566 Reshape the Matrix :pencil2: [풀이](https://philosopherprogrammer.com/81) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/566)
+>
+> #### 2022.1.10 월
+>
+> > 1. 387 First Unique Character in a String :pencil2: [풀이](https://philosopherprogrammer.com/82) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/387)
+> > 2. 383 Ransom Note :pencil2: [풀이](https://philosopherprogrammer.com/83) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/383)
+> > 3. 242 Valid Anagram :pencil2: [풀이](https://philosopherprogrammer.com/84) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/242)
+> > 4. 36 Valid Sudoku :pencil2: [풀이](https://philosopherprogrammer.com/85) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/36)
+> > 5. 위장 :pencil2: [풀이](https://philosopherprogrammer.com/86) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%9C%84%EC%9E%A5)

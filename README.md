@@ -122,3 +122,8 @@
 > > 3. 242 Valid Anagram :pencil2: [풀이](https://philosopherprogrammer.com/84) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/242)
 > > 4. 36 Valid Sudoku :pencil2: [풀이](https://philosopherprogrammer.com/85) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/2_Medium/36)
 > > 5. 위장 :pencil2: [풀이](https://philosopherprogrammer.com/86) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%9C%84%EC%9E%A5)
+>
+> #### 2022.1.11 화
+>
+> > 1. 141 Linked List Cycle :pencil2: [풀이](https://philosopherprogrammer.com/87) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/141)
+> > 2. helper function - makeSinglyLinkedListFromArray :dart: [커밋](https://github.com/PhilosopherProgrammer/CodingTestPractice/commit/d566f309ef36767c0b887a6b55fa966b72392c89)

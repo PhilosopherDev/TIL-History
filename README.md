@@ -127,3 +127,7 @@
 >
 > > 1. 141 Linked List Cycle :pencil2: [풀이](https://philosopherprogrammer.com/87) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/LeetCode/1_Easy/141)
 > > 2. helper function - makeSinglyLinkedListFromArray :dart: [커밋](https://github.com/PhilosopherProgrammer/CodingTestPractice/commit/d566f309ef36767c0b887a6b55fa966b72392c89)
+>
+> #### 2022.1.12 수
+>
+> > 1. Coding Test Readme.md generater 만들기 :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/ReadmeGenerator)

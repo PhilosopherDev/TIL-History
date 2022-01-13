@@ -130,4 +130,4 @@
 >
 > #### 2022.1.12 수
 >
-> > 1. Coding Test Practice repo Readme.md generator 만들기 :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/ReadmeGenerator)
+> > 1. Coding Test Practice Output Generator 기획 및 제작 시작 :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/ReadmeGenerator)

@@ -131,3 +131,9 @@
 > #### 2022.1.12 수
 >
 > > 1. Coding Test Practice Output Generator 기획 및 제작 시작 :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/ReadmeGenerator)
+>
+> #### 2022.1.13 목
+>
+> > 1. Coding Test Practice Output Generator github 생성 및 코드 이동, url 모델 구조 변경 :computer: [코드](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator)
+> > 2. 체육복 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
+> > 3. K번째수 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A8%B0%EC%88%98)

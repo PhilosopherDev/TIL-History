@@ -1,15 +1,15 @@
 # Today I Learned History
 
-- ## Overview
+- # Overview
   - [2021년 12월](#2021년-12월)
   - [2022년 1월](#2022년-1월)
     - [2022년 1월 1주차](#2022년-1월-1주차)
     - [2022년 1월 2주차](#2022년-1월-2주차)
     - [2022년 1월 3주차](#2022년-1월-3주차)
 
-### 2021년 12월
+## 2021년 12월
 
-> #### 2021.12.17 금
+> ### 2021.12.17 금
 >
 > > 1. Lexical scope 예제. 정적 스코프 = 함수 선언할 때 스코프 생성 :computer: [코드](https://github.com/PhilosopherProgrammer/OutputTraining/blob/main/misc/Playground/JS/LexicalScope.js)
 > > 2. Scope chain 과 prototype chain 을 확인하는 예제 :computer: [코드](https://github.com/PhilosopherProgrammer/OutputTraining/blob/main/misc/Playground/JS/scopeChain_prototypeChainCheck.js)
@@ -51,15 +51,15 @@
 > > 1. 프린터 - 배열의 shift() 사용하지 않고 Linked-list 기반 Queue 사용 :pencil2: [풀이](https://philosopherprogrammer.com/49) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%94%84%EB%A6%B0%ED%84%B0)
 > > 2. 다리를 지나는 트럭 - 배열의 shift() 사용하지 않고 Linked-list 기반 Queue 사용 :pencil2: [풀이](https://philosopherprogrammer.com/50) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EB%A6%AC%EB%A5%BC%EC%A7%80%EB%82%98%EB%8A%94%ED%8A%B8%EB%9F%AD)
 
-### 2022년 1월
+## 2022년 1월
 
-#### 2022년 1월 1주차
+### 2022년 1월 1주차
 
 > #### 2022.1.1 토
 >
 > > 1. 로또의 최고 순위와 최저 순위 :pencil2: [풀이](https://philosopherprogrammer.com/44) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84)
 
-#### 2022년 1월 2주차
+### 2022년 1월 2주차
 
 > #### 2022.1.2 일
 >
@@ -111,7 +111,7 @@
 > > 4. 두 정수 사이의 합 :pencil2: [풀이](https://philosopherprogrammer.com/76) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%91%90%EC%A0%95%EC%88%98%EC%82%AC%EC%9D%B4%EC%9D%98%ED%95%A9)
 > > 5. 약수의 개수와 덧셈 :pencil2: [풀이](https://philosopherprogrammer.com/79) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88)
 
-#### 2022년 1월 3주차
+### 2022년 1월 3주차
 
 > #### 2022.1.9 일
 >

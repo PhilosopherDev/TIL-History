@@ -144,3 +144,4 @@
 > #### 2022.1.14 금
 >
 > > 1. CoTe Result Generator 에 BOJ model 추가, type 추가, boj generating logic 추가 🖥️ [Github](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator) 
+> > 2. CoTe Result Generator 에 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/99d58069e626898f1091af0b8db378148e9e1f4b)

@@ -141,6 +141,6 @@
 > > 2. 체육복 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
 > > 3. K번째수 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A8%B0%EC%88%98)
 >
-> #### 2022.1.13 목
+> #### 2022.1.14 금
 >
 > > 1. CoTe Result Generator 에 BOJ model 추가, type 추가, boj generating logic 추가 🖥️ [Github](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator) 

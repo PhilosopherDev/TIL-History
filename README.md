@@ -5,6 +5,7 @@
   - [2022년 1월](#2022년-1월)
     - [2022년 1월 1주차](#2022년-1월-1주차)
     - [2022년 1월 2주차](#2022년-1월-2주차)
+    - [2022년 1월 3주차](#2022년-1월-3주차)
 
 ### 2021년 12월
 
@@ -57,7 +58,9 @@
 > #### 2022.1.1 토
 >
 > > 1. 로또의 최고 순위와 최저 순위 :pencil2: [풀이](https://philosopherprogrammer.com/44) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84)
->
+
+#### 2022년 1월 2주차
+
 > #### 2022.1.2 일
 >
 > > 1. 숫자 문자열과 영단어 :pencil2: [풀이](https://philosopherprogrammer.com/45) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%88%AB%EC%9E%90%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC%EC%98%81%EB%8B%A8%EC%96%B4)
@@ -108,7 +111,7 @@
 > > 4. 두 정수 사이의 합 :pencil2: [풀이](https://philosopherprogrammer.com/76) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%91%90%EC%A0%95%EC%88%98%EC%82%AC%EC%9D%B4%EC%9D%98%ED%95%A9)
 > > 5. 약수의 개수와 덧셈 :pencil2: [풀이](https://philosopherprogrammer.com/79) :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88)
 
-#### 2022년 1월 2주차
+#### 2022년 1월 3주차
 
 > #### 2022.1.9 일
 >
@@ -137,3 +140,7 @@
 > > 1. Coding Test Practice Output Generator github 생성 및 코드 이동, url 모델 구조 변경 :computer: [코드](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator)
 > > 2. 체육복 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
 > > 3. K번째수 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A8%B0%EC%88%98)
+>
+> #### 2022.1.13 목
+>
+> > 1. CoTe Result Generator 에 BOJ model 추가, type 추가, boj generating logic 추가 🖥️ [Github](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator) 

@@ -150,4 +150,6 @@
 > #### 2022.1.15 토
 >
 > > 1. 4673 셀프 넘버 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/4673)
+> > 2. byungmin-choi.com 도메인 구입
+> > 3. S3 정적 웹사이트 - Route 53 - 도메인 간 연결 
 

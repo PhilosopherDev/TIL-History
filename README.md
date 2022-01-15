@@ -143,6 +143,11 @@
 >
 > #### 2022.1.14 금
 >
-> > 1. CoTe Result Generator 에 BOJ model 추가, type 추가, boj generating logic 추가 🖥️ [Github](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator) 
-> > 2. CoTe Result Generator 의 platform 난이도로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/99d58069e626898f1091af0b8db378148e9e1f4b)
-> > 2. CoTe Result Generator 의 topic 으로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/84adeed96e8e2386c7a420520421f09d6f260e27)
+> > 1. Coding Test Output Generator 에 BOJ model 추가, type 추가, boj generating logic 추가 🖥️ [Github](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator) 
+> > 2. Coding Test Output Generator 의 platform 난이도로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/99d58069e626898f1091af0b8db378148e9e1f4b)
+> > 2. Coding Test Output Generator 의 topic 으로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/84adeed96e8e2386c7a420520421f09d6f260e27)
+> 
+> #### 2022.1.15 토
+>
+> > 1. 4673 셀프 넘버 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/5/4673)
+

@@ -6,6 +6,7 @@
     - [2022년 1월 1주차](#2022년-1월-1주차)
     - [2022년 1월 2주차](#2022년-1월-2주차)
     - [2022년 1월 3주차](#2022년-1월-3주차)
+    - [2022년 1월 4주차](#2022년-1월-4주차)
 
 ## 2021년 12월
 
@@ -143,9 +144,9 @@
 >
 > #### 2022.1.14 금
 >
-> > 1. Coding Test Output Generator 에 BOJ model 추가, type 추가, boj generating logic 추가 🖥️ [Github](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator) 
-> > 2. Coding Test Output Generator 의 platform 난이도로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/99d58069e626898f1091af0b8db378148e9e1f4b)
-> > 2. Coding Test Output Generator 의 topic 으로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/84adeed96e8e2386c7a420520421f09d6f260e27)
+> > 1. Coding Test Readme Generator 에 BOJ model 추가, type 추가, boj generating logic 추가 🖥️ [Github](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator) 
+> > 2. Coding Test Readme Generator 의 platform 난이도로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/99d58069e626898f1091af0b8db378148e9e1f4b)
+> > 2. Coding Test Readme Generator 의 topic 으로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/84adeed96e8e2386c7a420520421f09d6f260e27)
 > 
 > #### 2022.1.15 토
 >
@@ -153,3 +154,8 @@
 > > 2. byungmin-choi.com 도메인 구입
 > > 3. S3 정적 웹사이트 - Route 53 - 도메인 간 연결 
 
+### 2022년 1월 4주차
+
+> #### 2022.1.16 일
+>
+> > 1. Coding Test Readme Generator branch 생성 - ver1.0.0 and typescript

@@ -159,3 +159,4 @@
 > #### 2022.1.16 일
 >
 > > 1. Coding Test Readme Generator branch 생성 - ver1.0.0 and typescript
+> > 2. 1920 수 찾기 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1920)

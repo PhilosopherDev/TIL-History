@@ -163,3 +163,4 @@
 >
 > #### 2022.1.17 월
 > > 1. 1920 수 찾기 - Binary search 풀이 추가 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1920)
+> > 2. 10773 제로 - 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/10773)

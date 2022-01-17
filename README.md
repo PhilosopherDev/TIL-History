@@ -159,4 +159,7 @@
 > #### 2022.1.16 일
 >
 > > 1. Coding Test Readme Generator branch 생성 - ver1.0.0 and typescript
-> > 2. 1920 수 찾기 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1920)
+> > 2. 1920 수 찾기 - Set, Hash 풀이 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1920)
+>
+> #### 2022.1.17 월
+> > 1. 1920 수 찾기 - Binary search 풀이 추가 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1920)

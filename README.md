@@ -168,3 +168,4 @@
 > #### 2022.1.18 화
 > > 1. 1920 수 찾기 - Binary search 풀이 추가 ✏️ [풀이](https://philosopherprogrammer.com/90)
 > > 2. 10773 제로 - ✏️ [풀이](https://philosopherprogrammer.com/89)
+> > 3. AWS API gateway, dynamodb research

@@ -193,3 +193,8 @@
 > > 20. 9012 javascript 코드 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/9012)
 > > 21. 2164 javascript 코드 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/2164)
 > > 22. 1302 javascript 코드 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/4/1302)
+>
+> #### 2022.1.20 목
+> > 1. 17413 javascript 코드 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/17413)
+> > 2. 11659 javascript 코드 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/11659)
+> > 3. HotelBT (Clone Coding - ing)

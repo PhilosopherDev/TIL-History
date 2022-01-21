@@ -197,6 +197,10 @@
 > #### 2022.1.20 목
 > > 1. 17413 javascript 풀이 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/17413)
 > > 2. 11659 javascript 풀이 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/11659)
-> > 3. HotelBT (Clone Coding) - Navbar
+> > 3. HotelBT (Clone Coding) - Navbar 🖥️ [Github](https://github.com/PhilosopherProgrammer/HotelBT)
 > > 4. K번째수 javascript 풀이 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A8%B0%EC%88%98)
 > > 5. 체육복 javascript 풀이 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
+>
+> #### 2022.1.21 금
+> > 1. HotelBT (Clone Coding) - showcase 🖥️ [Github](https://github.com/PhilosopherProgrammer/HotelBT)
+> > 2. NFT Preview Card Component (Challenge) - overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFTPreviewCardComponent)

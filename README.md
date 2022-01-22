@@ -46,7 +46,7 @@
 > #### 2021.12.28 화
 >
 > > 1. Interactive developer 줄에 매달려 흔들리는 상자 프로젝트 clone coding :cyclone: [동작하는 페이지](https://philosopherprogrammer.github.io/OutputTraining/misc/CloneCoding/InteractiveDeveloper/%EC%A4%84%EC%97%90_%EB%A7%A4%EB%8B%AC%EB%A0%A4_%ED%9D%94%EB%93%A4%EB%A6%AC%EB%8A%94_%EC%83%81%EC%9E%90/index.html)
-> > <a href="https://philosopherprogrammer.github.io/OutputTraining/misc/CloneCoding/InteractiveDeveloper/%EC%A4%84%EC%97%90_%EB%A7%A4%EB%8B%AC%EB%A0%A4_%ED%9D%94%EB%93%A4%EB%A6%AC%EB%8A%94_%EC%83%81%EC%9E%90/index.html" target="_blank">동작하는 페이지</a>
+> > <a href="https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%94%84%EB%A6%B0%ED%84%B0" target="_blank">동작하는 페이지</a>
 >
 > #### 2021.12.29 수
 >

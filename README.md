@@ -205,3 +205,6 @@
 > > 1. HotelBT (Clone Coding) - showcase 🖥️ [Github](https://github.com/PhilosopherProgrammer/HotelBT)
 > > 2. NFT Preview Card Component (Challenge) - overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFTPreviewCardComponent)
 > > 3. AWS API gateway - Lambda function 연결 학습 🎓 [강의](https://www.udemy.com/course/aws-serverless-a-complete-introduction/)
+>
+> > #### 2022.1.22 토
+> > 1. NFT Preview Card Component (Challenge) - responsive layout, hover, cursor, font-size etc 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFTPreviewCardComponent) 🌀 [동작하는 페이지](https://philosopherprogrammer.github.io/NFTPreviewCardComponent/)

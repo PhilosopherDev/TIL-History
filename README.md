@@ -7,6 +7,7 @@
     - [2022년 1월 2주차](#2022년-1월-2주차)
     - [2022년 1월 3주차](#2022년-1월-3주차)
     - [2022년 1월 4주차](#2022년-1월-4주차)
+    - [2022년 1월 5주차](#2022년-1월-5주차)
 
 ## 2021년 12월
 
@@ -206,5 +207,10 @@
 > > 2. NFT Preview Card Component (Challenge) - overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFTPreviewCardComponent)
 > > 3. AWS API gateway - Lambda function 연결 학습 🎓 [강의](https://www.udemy.com/course/aws-serverless-a-complete-introduction/)
 >
-> > #### 2022.1.22 토
+> #### 2022.1.22 토
 > > 1. NFT Preview Card Component (Challenge) - responsive layout, hover, cursor, font-size etc 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFTPreviewCardComponent) 🌀 [동작하는 페이지](https://philosopherprogrammer.github.io/NFTPreviewCardComponent/)
+
+### 2022년 1월 5주차
+
+> #### 2022.1.23 일
+> > 1. NFT Preview Card Component (Challenge) - Image hover 적용 및 정리, Challenge 완료 [Challenge Link](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)

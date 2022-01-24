@@ -213,4 +213,7 @@
 ### 2022년 1월 5주차
 
 > #### 2022.1.23 일
-> > 1. NFT Preview Card Component (Challenge) - Image hover 적용 및 정리, Challenge 완료 ☑️ [Challenge Link](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
+> > 1. NFT Preview Card Component (Challenge) - Image hover 적용 및 정리, Challenge 완료 🔗 [Challenge Link](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
+> 
+> #### 2022.1.24 월
+> > 1. NFT Preview Card Component (Challenge) - Accessibility 조정 🔗 [Challenge Link](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)

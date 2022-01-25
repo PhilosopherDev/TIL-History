@@ -219,4 +219,4 @@
 > > 1. NFT Preview Card Component (Challenge) - Accessibility 조정 🔗 [Challenge Link](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
 > 
 > #### 2022.1.25 화
-> > 1. Resume 작성 관련 검색 및 정리 🔗 [Ref1](https://techblog.woowahan.com/2531/) 🔗 [Ref2](https://jaenyeong.github.io/resume/guide/#%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%9E%91%EC%84%B1-%EC%88%9C%EC%84%9C)
+> > 1. Resume 작성 관련 검색 및 정리 🔗 [Ref1](https://techblog.woowahan.com/2531/) 🔗 [Ref2](https://jaenyeong.github.io/resume/guide/#%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%9E%91%EC%84%B1-%EC%88%9C%EC%84%9C) 🔗 [Ref3](https://blog.outsider.ne.kr/1234)

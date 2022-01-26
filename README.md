@@ -223,4 +223,4 @@
 > > 2. Time Tracking Dashboard (Challenge) - init 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)
 > 
 > #### 2022.1.26 수
-> > 1. Time Tracking Dashboard (Challenge) - template component, webpack setting, Overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)
+> > 1. Time Tracking Dashboard (Challenge) - template component, webpack setting(webpack-dev-server, style-loader, css-loader, file-loader), Overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)

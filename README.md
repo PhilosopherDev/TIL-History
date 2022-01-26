@@ -221,3 +221,6 @@
 > #### 2022.1.25 화
 > > 1. Resume 작성 관련 검색 🔗 [Ref1](https://techblog.woowahan.com/2531/) 🔗 [Ref2](https://jaenyeong.github.io/resume/guide/#%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%9E%91%EC%84%B1-%EC%88%9C%EC%84%9C) 🔗 [Ref3](https://blog.outsider.ne.kr/1234)
 > > 2. Time Tracking Dashboard (Challenge) - init 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)
+> 
+> #### 2022.1.26 수
+> > 1. Time Tracking Dashboard (Challenge) - template component, webpack setting, Overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)

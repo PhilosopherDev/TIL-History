@@ -224,3 +224,6 @@
 > 
 > #### 2022.1.26 수
 > > 1. Time Tracking Dashboard (Challenge) - template component, webpack setting(webpack-dev-server, style-loader, css-loader, file-loader), Overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)
+> 
+> #### 2022.1.27 목
+> > 1. Readme-generator - Coding Test Practice Readme Difficulty 내림차순으로 변경, DFS/BFS 결합 🖥️ [Github](https://github.com/PhilosopherProgrammer/Readme-Generator)

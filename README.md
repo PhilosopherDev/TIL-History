@@ -227,3 +227,5 @@
 > 
 > #### 2022.1.27 목
 > > 1. Readme-generator - Coding Test Practice Readme Difficulty 내림차순으로 변경, DFS/BFS 결합 🖥️ [Github](https://github.com/PhilosopherProgrammer/Readme-Generator)
+> > 2. Time Tracking Dashboard (Challenge) - bem modifier, mouse cursor range 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)
+> > 3. HotelBT (Clone Coding) - home info, features footer 🖥️ [Github](https://github.com/PhilosopherProgrammer/HotelBT)

@@ -230,3 +230,6 @@
 > > 2. Time Tracking Dashboard (Challenge) - bem modifier, mouse cursor range 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)
 > > 3. HotelBT (Clone Coding) - home info, features footer 🖥️ [Github](https://github.com/PhilosopherProgrammer/HotelBT)
 > > 4. byungmin-choi startbootstrap 포트폴리오 디자인 확인
+>
+> #### 2022.1.28 금
+> > 1. Sentence-Shaker - init 🖥️ [Github](https://github.com/PhilosopherProgrammer/Sentence-Shaker)

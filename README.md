@@ -232,4 +232,5 @@
 > > 4. byungmin-choi startbootstrap 포트폴리오 디자인 확인
 >
 > #### 2022.1.28 금
-> > 1. Sentence-Shaker - init 🖥️ [Github](https://github.com/PhilosopherProgrammer/Sentence-Shaker)
+> > 1. Sentence-Shaker - init, style, basic feature 🖥️ [Github](https://github.com/PhilosopherProgrammer/Sentence-Shaker)
+> > 2. Time Tracking Dashboard (Challenge) - card html layout, create element and add, css  🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)

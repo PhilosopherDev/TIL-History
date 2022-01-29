@@ -237,3 +237,4 @@
 >
 > #### 2022.1.29 토
 > > 1. 줄에 매달려 흔들리는 상자 (Clone Coding) - attribution, favicon, title 🗄️ [Github](https://github.com/PhilosopherProgrammer/swaying-box-hanging-from-a-string)
+> > 2. NFT Preview Card Component (Challenge) - favicon 생성, 추가, font-weight 조정 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component)

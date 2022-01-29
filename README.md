@@ -198,17 +198,17 @@
 > #### 2022.1.20 목
 > > 1. 17413 javascript 풀이 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/17413)
 > > 2. 11659 javascript 풀이 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/BOJ/2_Silver/3/11659)
-> > 3. HotelBT (Clone Coding) - Navbar 🖥️ [Github](https://github.com/PhilosopherProgrammer/HotelBT)
+> > 3. HotelBT (Clone Coding) - Navbar 🖥️ [Github](https://github.com/PhilosopherProgrammer/hotel-BT)
 > > 4. K번째수 javascript 풀이 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A8%B0%EC%88%98)
 > > 5. 체육복 javascript 풀이 추가 :computer: [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
 >
 > #### 2022.1.21 금
-> > 1. HotelBT (Clone Coding) - showcase 🖥️ [Github](https://github.com/PhilosopherProgrammer/HotelBT)
-> > 2. NFT Preview Card Component (Challenge) - overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFTPreviewCardComponent)
+> > 1. HotelBT (Clone Coding) - showcase 🖥️ [Github](https://github.com/PhilosopherProgrammer/hotel-BT)
+> > 2. NFT Preview Card Component (Challenge) - overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component)
 > > 3. AWS API gateway - Lambda function 연결 학습 🎓 [강의](https://www.udemy.com/course/aws-serverless-a-complete-introduction/)
 >
 > #### 2022.1.22 토
-> > 1. NFT Preview Card Component (Challenge) - responsive layout, hover, cursor, font-size etc 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFTPreviewCardComponent) 🌀 [동작하는 페이지](https://philosopherprogrammer.github.io/NFTPreviewCardComponent/)
+> > 1. NFT Preview Card Component (Challenge) - responsive layout, hover, cursor, font-size etc 🖥️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component) 🌀 [동작하는 페이지](https://philosopherprogrammer.github.io/NFTPreviewCardComponent/)
 
 ### 2022년 1월 5주차
 
@@ -220,20 +220,20 @@
 > 
 > #### 2022.1.25 화
 > > 1. Resume 작성 관련 검색 🔗 [Ref1](https://techblog.woowahan.com/2531/) 🔗 [Ref2](https://jaenyeong.github.io/resume/guide/#%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%9E%91%EC%84%B1-%EC%88%9C%EC%84%9C) 🔗 [Ref3](https://blog.outsider.ne.kr/1234)
-> > 2. Time Tracking Dashboard (Challenge) - init 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)
+> > 2. Time Tracking Dashboard (Challenge) - init 🖥️ [Github](https://github.com/PhilosopherProgrammer/time-tracking-dashboard)
 > 
 > #### 2022.1.26 수
-> > 1. Time Tracking Dashboard (Challenge) - template component, webpack setting(webpack-dev-server, style-loader, css-loader, file-loader), Overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)
+> > 1. Time Tracking Dashboard (Challenge) - template component, webpack setting(webpack-dev-server, style-loader, css-loader, file-loader), Overall layout 🖥️ [Github](https://github.com/PhilosopherProgrammer/time-tracking-dashboard)
 > 
 > #### 2022.1.27 목
-> > 1. Readme-generator (Side Project) - Coding Test Practice Readme Difficulty 내림차순으로 변경, DFS/BFS 결합 🖥️ [Github](https://github.com/PhilosopherProgrammer/Readme-Generator)
-> > 2. Time Tracking Dashboard (Challenge) - bem modifier, mouse cursor range 🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)
-> > 3. HotelBT (Clone Coding) - home info, features footer 🖥️ [Github](https://github.com/PhilosopherProgrammer/HotelBT)
+> > 1. Readme-generator (Side Project) - Coding Test Practice Readme Difficulty 내림차순으로 변경, DFS/BFS 결합 🖥️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
+> > 2. Time Tracking Dashboard (Challenge) - bem modifier, mouse cursor range 🖥️ [Github](https://github.com/PhilosopherProgrammer/time-tracking-dashboard)
+> > 3. HotelBT (Clone Coding) - home info, features footer 🖥️ [Github](https://github.com/PhilosopherProgrammer/hotel-BT)
 > > 4. byungmin-choi (Side Project) - startbootstrap 포트폴리오 디자인 확인
 >
 > #### 2022.1.28 금
-> > 1. Sentence-Shaker (Side Project) - init, style, basic feature 🖥️ [Github](https://github.com/PhilosopherProgrammer/Sentence-Shaker)
-> > 2. Time Tracking Dashboard (Challenge) - card html layout, create element and add, css  🖥️ [Github](https://github.com/PhilosopherProgrammer/Time-Tracking-Dashboard)
+> > 1. Sentence-Shaker (Side Project) - init, style, basic feature 🖥️ [Github](https://github.com/PhilosopherProgrammer/sentence-shaker)
+> > 2. Time Tracking Dashboard (Challenge) - card html layout, create element and add, css  🖥️ [Github](https://github.com/PhilosopherProgrammer/time-tracking-dashboard)
 >
 > #### 2022.1.29 토
 > > 1. 줄에 매달려 흔들리는 상자 (Clone Coding) - attribution, favicon, title 🖥️ [Github](https://github.com/PhilosopherProgrammer/swaying-box-hanging-from-a-string)

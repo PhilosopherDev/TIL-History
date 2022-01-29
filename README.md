@@ -135,19 +135,19 @@
 >
 > #### 2022.1.12 수
 >
-> > 1. Coding Test Practice Output Generator 기획 및 제작 시작 :computer: [코드](https://github.com/PhilosopherProgrammer/CodingTestPractice/tree/main/ReadmeGenerator)
+> > 1. Coding Test Practice Output Generator 기획 및 제작 시작 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
 >
 > #### 2022.1.13 목
 >
-> > 1. Coding Test Practice Output Generator github 생성 및 코드 이동, url 모델 구조 변경 :computer: [코드](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator)
+> > 1. Coding Test Practice Output Generator github 생성 및 코드 이동, url 모델 구조 변경 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
 > > 2. 체육복 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B2%B4%EC%9C%A1%EB%B3%B5)
 > > 3. K번째수 💻 [코드](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/K%EB%B2%88%EC%A8%B0%EC%88%98)
 >
 > #### 2022.1.14 금
 >
-> > 1. Coding Test Readme Generator 에 BOJ model 추가, type 추가, boj generating logic 추가 🗄️ [Github](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator) 
-> > 2. Coding Test Readme Generator 의 platform 난이도로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/99d58069e626898f1091af0b8db378148e9e1f4b)
-> > 2. Coding Test Readme Generator 의 topic 으로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/CoTe-Output-Generator/commit/84adeed96e8e2386c7a420520421f09d6f260e27)
+> > 1. Coding Test Readme Generator 에 BOJ model 추가, type 추가, boj generating logic 추가 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator) 
+> > 2. Coding Test Readme Generator 의 platform 난이도로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/readme-generator/commit/99d58069e626898f1091af0b8db378148e9e1f4b)
+> > 2. Coding Test Readme Generator 의 topic 으로 정렬된 문제 개수 보여주는 로직 추가 🎯 [커밋](https://github.com/PhilosopherProgrammer/readme-generator/commit/84adeed96e8e2386c7a420520421f09d6f260e27)
 > 
 > #### 2022.1.15 토
 >
@@ -208,15 +208,15 @@
 > > 3. AWS API gateway - Lambda function 연결 학습 🎓 [강의](https://www.udemy.com/course/aws-serverless-a-complete-introduction/)
 >
 > #### 2022.1.22 토
-> > 1. NFT Preview Card Component (Challenge) - responsive layout, hover, cursor, font-size etc 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component) 🌀 [동작하는 페이지](https://philosopherprogrammer.github.io/NFTPreviewCardComponent/)
+> > 1. NFT Preview Card Component (Challenge) - responsive layout, hover, cursor, font-size etc 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component) 🌐 [Live Page](https://philosopherprogrammer.github.io/NFT-preview-card-component/)
 
 ### 2022년 1월 5주차
 
 > #### 2022.1.23 일
-> > 1. NFT Preview Card Component (Challenge) - Image hover 적용 및 정리, Challenge 완료 🔗 [Challenge Link](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
+> > 1. NFT Preview Card Component (Challenge) - Image hover 적용 및 정리, Challenge 완료 🔮 [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
 > 
 > #### 2022.1.24 월
-> > 1. NFT Preview Card Component (Challenge) - Accessibility 조정 🔗 [Challenge Link](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
+> > 1. NFT Preview Card Component (Challenge) - Accessibility 조정 🔮 [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
 > 
 > #### 2022.1.25 화
 > > 1. Resume 작성 관련 검색 🔗 [Ref1](https://techblog.woowahan.com/2531/) 🔗 [Ref2](https://jaenyeong.github.io/resume/guide/#%EC%9D%B4%EB%A0%A5%EC%84%9C-%EC%9E%91%EC%84%B1-%EC%88%9C%EC%84%9C) 🔗 [Ref3](https://blog.outsider.ne.kr/1234)

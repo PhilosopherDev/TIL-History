@@ -46,7 +46,7 @@
 >
 > #### 2021.12.28 화
 >
-> > 1. Interactive developer 줄에 매달려 흔들리는 상자 프로젝트 clone coding 🌐 [Live Page](https://philosopherprogrammer.github.io/swaying-box-hanging-from-a-string/)
+> > 1. Interactive developer 줄에 매달려 흔들리는 상자 프로젝트 clone coding 🌐 [Live Site](https://philosopherprogrammer.github.io/swaying-box-hanging-from-a-string/)
 >
 > #### 2021.12.29 수
 >
@@ -208,7 +208,7 @@
 > > 3. AWS API gateway - Lambda function 연결 학습 🎓 [Lecture](https://www.udemy.com/course/aws-serverless-a-complete-introduction/)
 >
 > #### 2022.1.22 토
-> > 1. NFT Preview Card Component (Challenge) - responsive layout, hover, cursor, font-size etc 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component) 🌐 [Live Page](https://philosopherprogrammer.github.io/NFT-preview-card-component/)
+> > 1. NFT Preview Card Component (Challenge) - responsive layout, hover, cursor, font-size etc 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component) 🌐 [Live Site](https://philosopherprogrammer.github.io/NFT-preview-card-component/)
 
 ### 2022년 1월 5주차
 

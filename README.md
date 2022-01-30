@@ -8,6 +8,8 @@
     - [2022년 1월 3주차](#2022년-1월-3주차)
     - [2022년 1월 4주차](#2022년-1월-4주차)
     - [2022년 1월 5주차](#2022년-1월-5주차)
+  - [2022년 2월](#2022년-2월)
+    - [2022년 2월 1주차](#2022년-2월-1주차)
 
 ## 2021년 12월
 
@@ -238,3 +240,10 @@
 > #### 2022.1.29 토
 > > 1. 줄에 매달려 흔들리는 상자 (Clone Coding) - attribution, favicon, title 🗄️ [Github](https://github.com/PhilosopherProgrammer/swaying-box-hanging-from-a-string)
 > > 2. NFT Preview Card Component (Challenge) - favicon 생성, 추가, font-weight 조정 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component)
+
+## 2022년 2월
+
+### 2022년 2월 1주차
+
+> #### 2022.1.30 일
+> > 1. Readme template 생성 - 한국어 버전, 영어 버전 🗄️ [Github](https://github.com/PhilosopherProgrammer/PhilosopherProgrammer)

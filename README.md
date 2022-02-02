@@ -252,3 +252,4 @@
 > #### 2022.2.2 수
 > > 1. 다트 게임 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84)
 > > 2. Readme-generator (Side Project) - typescript 로 프로젝트 전체 변환 후 merge 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
+> > 3. Programmers 스킬업 스킬체크 레벨1 획득 🥇

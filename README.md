@@ -248,3 +248,6 @@
 > #### 2022.1.30 일
 > > 1. Readme template 생성 - 한국어 버전, 영어 버전 🗄️ [Github](https://github.com/PhilosopherProgrammer/PhilosopherProgrammer)
 > > 2. Time Tracking Dashboard (Challenge) - favicon 추가, css 적용 방식 변경, mobile to desktop  🗄️ [Github](https://github.com/PhilosopherProgrammer/time-tracking-dashboard)
+> 
+> #### 2022.2.2 수
+> > > > 1. 다트 게임 :computer: [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%8B%A4%ED%8A%B8%EA%B2%8C%EC%9E%84)

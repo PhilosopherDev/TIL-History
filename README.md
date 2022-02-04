@@ -256,3 +256,6 @@
 > 
 > #### 2022.2.3 목
 > > 1. Readme-generator (Side Project) - TIL data 정리, type 조정 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
+>
+> #### 2022.2.4 금
+> > 1. Readme-generator (Side Project) - TIL data 추가, type 정리, typo 처리 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)

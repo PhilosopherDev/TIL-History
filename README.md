@@ -259,3 +259,6 @@
 >
 > #### 2022.2.4 금
 > > 1. Readme-generator (Side Project) - TIL data 추가, type 정리, typo 처리 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
+>
+> #### 2022.2.5 토
+> > 1. 이력서 작성

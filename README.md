@@ -13,7 +13,7 @@
 
 ## 2021년 12월
 
-> ### 2021.12.17 금
+> #### 2021.12.17 금
 >
 > > 1. Lexical scope 예제. 정적 스코프 = 함수 선언할 때 스코프 생성 :computer: [Code](https://github.com/PhilosopherProgrammer/output-training/blob/main/misc/Playground/JS/LexicalScope.js)
 > > 2. Scope chain 과 prototype chain 을 확인하는 예제 :computer: [Code](https://github.com/PhilosopherProgrammer/output-training/blob/main/misc/Playground/JS/scopeChain_prototypeChainCheck.js)
@@ -262,3 +262,4 @@
 >
 > #### 2022.2.5 토
 > > 1. 이력서 작성
+> > 2. Readme-generator (Side Project) - Side project, Challenge, Clone coding model 추가 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)

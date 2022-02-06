@@ -261,8 +261,7 @@
 > > 1. Readme-generator (Side Project) - TIL data 추가, type 정리, typo 처리 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
 >
 > #### 2022.2.5 토
-> > 1. 이력서 작성
-> > 2. Readme-generator (Side Project) - Side project, Challenge, Clone coding model 추가 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
+> > 1. Readme-generator (Side Project) - Side project, Challenge, Clone coding model 추가 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
 
 ### 2022년 2월 1주차
 

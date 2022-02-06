@@ -263,3 +263,9 @@
 > #### 2022.2.5 토
 > > 1. 이력서 작성
 > > 2. Readme-generator (Side Project) - Side project, Challenge, Clone coding model 추가 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
+
+### 2022년 2월 1주차
+
+>
+> #### 2022.2.6 일
+> > 1. Sentence-Shaker (Side Project) - copy button, showing syntax changed 🗄️ [Github](https://github.com/PhilosopherProgrammer/sentence-shaker)

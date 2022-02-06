@@ -268,4 +268,4 @@
 
 >
 > #### 2022.2.6 일
-> > 1. Sentence-Shaker (Side Project) - copy button, showing syntax changed 🗄️ [Github](https://github.com/PhilosopherProgrammer/sentence-shaker)
+> > 1. Sentence-Shaker (Side Project) - copy button, showing syntax changed, Add org en 🗄️ [Github](https://github.com/PhilosopherProgrammer/sentence-shaker)

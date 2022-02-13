@@ -274,3 +274,6 @@
 > #### 2022.2.11 금
 > > 1. 신고 결과 받기 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0) ✏️ [Blog](https://philosopherprogrammer.tistory.com/92)
 > > 2. 다트 게임 ✏️ [Blog](https://philosopherprogrammer.tistory.com/93)
+>
+> #### 2022.2.12 토
+> > 1. Readme-generator (Side Project) - Coding Test Company property 추가 및 표현 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)

@@ -11,6 +11,7 @@
   - [2022년 2월](#2022년-2월)
     - [2022년 2월 1주차](#2022년-2월-1주차)
     - [2022년 2월 2주차](#2022년-2월-2주차)
+    - [2022년 2월 3주차](#2022년-2월-3주차)
 
 ## 2021년 12월
 
@@ -272,8 +273,15 @@
 > > 2. REST-countries-API-with-color-theme-switcher (Challenge) - init 🗄️ [Github](https://github.com/PhilosopherProgrammer/REST-countries-API-with-color-theme-switcher)
 >
 > #### 2022.2.11 금
-> > 1. 신고 결과 받기 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0) ✏️ [Blog](https://philosopherprogrammer.tistory.com/92)
+> > 1. 신고 결과 받기 ✏️ [Blog](https://philosopherprogrammer.tistory.com/92) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B3%A0%EA%B2%B0%EA%B3%BC%EB%B0%9B%EA%B8%B0) 
 > > 2. 다트 게임 ✏️ [Blog](https://philosopherprogrammer.tistory.com/93)
 >
 > #### 2022.2.12 토
 > > 1. Readme-generator (Side Project) - Coding Test Company property 추가 및 표현 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
+
+### 2022년 2월 3주차
+
+>
+> #### 2022.2.13 일
+> > 1. 비밀 지도 ✏️ [Blog](https://philosopherprogrammer.tistory.com/94) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84) 
+> > 2. Readme-generator (Side Project) - Topic 란에 나타나는 Data structure 6종, algorithm 13종 추가 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)

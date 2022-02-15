@@ -288,3 +288,6 @@
 >
 > #### 2022.2.14 월
 > > 1. 메뉴 리뉴얼 ✏️ [Blog](https://philosopherprogrammer.com/95) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%A9%94%EB%89%B4%EB%A6%AC%EB%89%B4%EC%96%BC) 
+>
+> #### 2022.2.15 화
+> > 1. Readme-generator (Side Project) - 풀이에 사용한 Language 표현 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)

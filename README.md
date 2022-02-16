@@ -2,6 +2,9 @@
 
 - # Overview
   - [2021년 12월](#2021년-12월)
+    - [2022년 12월 3주차](#2022년-12월-3주차)
+    - [2022년 12월 4주차](#2022년-12월-4주차)
+    - [2022년 12월 5주차](#2022년-12월-5주차)
   - [2022년 1월](#2022년-1월)
     - [2022년 1월 1주차](#2022년-1월-1주차)
     - [2022년 1월 2주차](#2022년-1월-2주차)
@@ -15,11 +18,16 @@
 
 ## 2021년 12월
 
+### 2022년 12월 3주차
+
 > #### 2021.12.17 금
 >
 > > 1. Lexical scope 예제. 정적 스코프 = 함수 선언할 때 스코프 생성 :computer: [Code](https://github.com/PhilosopherProgrammer/output-training/blob/main/misc/Playground/JS/LexicalScope.js)
 > > 2. Scope chain 과 prototype chain 을 확인하는 예제 :computer: [Code](https://github.com/PhilosopherProgrammer/output-training/blob/main/misc/Playground/JS/scopeChain_prototypeChainCheck.js)
 > > 3. Component repeat by array map, array fill :dart: [Commit](https://github.com/PhilosopherProgrammer/output-training/commit/4fcdd608cd801e97ec712ec12144ed3a0530a432)
+
+### 2022년 12월 4주차
+
 >
 > #### 2021.12.20 월
 >
@@ -47,6 +55,9 @@
 > #### 2021.12.24 금
 >
 > > 1. typescript static method 어떤식을 구현됐는지 확인 - 생성자 함수에 직접 붙임 :computer: [Code](https://github.com/PhilosopherProgrammer/output-training/blob/main/misc/Playground/typescript/Person.js)
+
+### 2022년 12월 5주차
+
 >
 > #### 2021.12.28 화
 >

@@ -291,3 +291,6 @@
 >
 > #### 2022.2.15 화
 > > 1. Readme-generator (Side Project) - 풀이에 사용한 Language 표현 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
+>
+> #### 2022.2.16 수
+> > 1. 방금그곡 ✏️ [Blog](https://philosopherprogrammer.com/96) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1) 

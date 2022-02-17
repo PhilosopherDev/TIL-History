@@ -305,3 +305,7 @@
 >
 > #### 2022.2.16 수
 > > 1. 방금그곡 ✏️ [Blog](https://philosopherprogrammer.com/96) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%B0%A9%EA%B8%88%EA%B7%B8%EA%B3%A1) 
+>
+> #### 2022.2.17 목
+> > 1. 재귀 함수 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/EducationPlatform/Inflearn/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/8_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_DFS/%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98) 
+> > 2. Readme-generator (Side Project) - Education Platform 기준 섹션 생성 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)

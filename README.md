@@ -317,3 +317,6 @@
 > > 4. 주식가격 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9) 
 > > 5. Readme-generator (Side Project) - 하드 코딩으로 처리하던 Overview, content 부분 function 생성해서 처리, Related topic 푼 문제 숫자 기준 내림차순 정렬 추가 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
 > > 6. 이진수 출력 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/EducationPlatform/Inflearn/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98_%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4/8_%EC%9E%AC%EA%B7%80%ED%95%A8%EC%88%98_%EC%99%84%EC%A0%84%ED%83%90%EC%83%89_DFS/%EC%9D%B4%EC%A7%84%EC%88%98%EC%B6%9C%EB%A0%A5) 
+>
+> #### 2022.2.19 토
+> > 1. 크레인 인형뽑기 게임 ✏️ [Blog](https://philosopherprogrammer.com/97) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84) 

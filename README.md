@@ -15,6 +15,7 @@
     - [2022년 2월 1주차](#2022년-2월-1주차)
     - [2022년 2월 2주차](#2022년-2월-2주차)
     - [2022년 2월 3주차](#2022년-2월-3주차)
+    - [2022년 2월 4주차](#2022년-2월-4주차)
 
 ## 2021년 12월
 
@@ -322,3 +323,9 @@
 > > 1. 크레인 인형뽑기 게임 ✏️ [Blog](https://philosopherprogrammer.com/97) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84) 
 > > 2. 키패드 누르기 ✏️ [Blog](https://philosopherprogrammer.com/98) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0) 
 > > 3. 신규 아이디 추천 ✏️ [Blog](https://philosopherprogrammer.com/99) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%EC%B6%94%EC%B2%9C) 
+
+### 2022년 2월 4주차
+
+>
+> #### 2022.2.20 일
+> > 1. 크레인 인형뽑기 게임 ✏️ [Blog](https://philosopherprogrammer.com/100) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) 

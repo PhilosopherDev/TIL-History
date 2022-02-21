@@ -328,7 +328,7 @@
 
 >
 > #### 2022.2.20 일
-> > 1. 크레인 인형뽑기 게임 ✏️ [Blog](https://philosopherprogrammer.com/100) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) 
+> > 1. 뉴스 클러스터링 ✏️ [Blog](https://philosopherprogrammer.com/100) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%89%B4%EC%8A%A4%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EB%A7%81) 
 >
 > #### 2022.2.21 월
 > > 1. 괄호 변환 - ✏️ [Blog](https://philosopherprogrammer.com/101) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B4%84%ED%98%B8%EB%B3%80%ED%99%98) 

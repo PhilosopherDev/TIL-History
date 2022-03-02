@@ -380,3 +380,6 @@
 >
 > #### 2022.2.28 월
 > > 1. 콜라츠 추측 - ✏️ [Blog](https://philosopherprogrammer.com/105) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%EC%B6%94%EC%B8%A1) 
+>
+> #### 2022.3.2 수
+> > 1.자릿수 더하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9E%90%EB%A6%BF%EC%88%98%EB%8D%94%ED%95%98%EA%B8%B0) 

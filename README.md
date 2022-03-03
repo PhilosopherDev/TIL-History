@@ -387,3 +387,4 @@
 >
 > #### 2022.3.3 목
 > > 1. Readme-generator (Side Project) - Platform 별 Total 계산 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
+> > 2. 숫자의 표현 - ✏️ [Blog](https://philosopherprogrammer.com/106) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%88%AB%EC%9E%90%EC%9D%98%ED%91%9C%ED%98%84) 

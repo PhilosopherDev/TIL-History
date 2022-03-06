@@ -1,4 +1,4 @@
-# Today I Learned History
+# Today I Learned
 
 - # Overview
   - [2021년 12월](#2021년-12월)
@@ -18,6 +18,7 @@
     - [2022년 2월 4주차](#2022년-2월-4주차)
   - [2022년 3월](#2022년-3월)
     - [2022년 3월 1주차](#2022년-3월-1주차)
+    - [2022년 3월 2주차](#2022년-3월-2주차)
 
 ## 2021년 12월
 
@@ -392,5 +393,12 @@
 > #### 2022.3.5 토
 > > 1. 영어 끝말잇기 - ✏️ [Blog](https://philosopherprogrammer.com/107) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%98%81%EC%96%B4%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0) 
 
+
+**[⬆ Back to Top](#overview)**
+
+> ### 2022년 3월 2주차
+>
+> #### 2022.3.6 일
+> > 1. Readme-generator (Side Project) - Education lecture section 별 정리 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
 
 **[⬆ Back to Top](#overview)**

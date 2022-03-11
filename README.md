@@ -403,6 +403,8 @@
 > 
 > #### 2022.3.7 월
 > > 1. 핸드폰 번호 가리기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8%EA%B0%80%EB%A6%AC%EA%B8%B0) 
-
+>
+> #### 2022.3.10 목
+> > 1. 하샤드 수 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98) 
 
 **[⬆ Back to Top](#overview)**

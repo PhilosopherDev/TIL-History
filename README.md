@@ -406,5 +406,23 @@
 >
 > #### 2022.3.10 목
 > > 1. 하샤드 수 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%95%98%EC%83%A4%EB%93%9C%EC%88%98) 
+>
+> #### 2022.3.11 금
+> > 1. 동물의 아이디와 이름 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level1/%EB%8F%99%EB%AC%BC%EC%9D%98%EC%95%84%EC%9D%B4%EB%94%94%EC%99%80%EC%9D%B4%EB%A6%84) 
+> > 2. 모든 레코드 조회하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level1/%EB%AA%A8%EB%93%A0%EB%A0%88%EC%BD%94%EB%93%9C%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0) 
+> > 3. 상위 n개 레코드 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level1/%EC%83%81%EC%9C%84n%EA%B0%9C%EB%A0%88%EC%BD%94%EB%93%9C) 
+> > 4. 아픈 동물 찾기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level1/%EC%95%84%ED%94%88%EB%8F%99%EB%AC%BC%EC%B0%BE%EA%B8%B0) 
+> > 5. 어린 동물 찾기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level1/%EC%96%B4%EB%A6%B0%EB%8F%99%EB%AC%BC%EC%B0%BE%EA%B8%B0) 
+> > 6. 여러 기준으로 정렬하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level1/%EC%97%AC%EB%9F%AC%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0) 
+> > 7. 역순 정렬하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level1/%EC%97%AD%EC%88%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0) 
+> > 8. 이름이 없는 동물의 아이디 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level1/%EC%9D%B4%EB%A6%84%EC%9D%B4%EC%97%86%EB%8A%94%EB%8F%99%EB%AC%BC%EC%9D%98%EC%95%84%EC%9D%B4%EB%94%94) 
+> > 9. 이름이 있는 동물의 아이디 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level1/%EC%9D%B4%EB%A6%84%EC%9D%B4%EC%9E%88%EB%8A%94%EB%8F%99%EB%AC%BC%EC%9D%98%EC%95%84%EC%9D%B4%EB%94%94) 
+> > 10. 최댓값 구하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level1/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0) 
+> > 11. 최솟값 구하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level2/%EC%B5%9C%EC%86%9F%EA%B0%92%EA%B5%AC%ED%95%98%EA%B8%B0) 
+> > 12. NULL 처리하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level2/NULL%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0) 
+> > 13. 고양이와 개는 몇 마리 있을까 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level2/%EA%B3%A0%EC%96%91%EC%9D%B4%EC%99%80%EA%B0%9C%EB%8A%94%EB%AA%87%EB%A7%88%EB%A6%AC%EC%9E%88%EC%9D%84%EA%B9%8C) 
+> > 14. 동명 동물 수 찾기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level2/%EB%8F%99%EB%AA%85%EB%8F%99%EB%AC%BC%EC%88%98%EC%B0%BE%EA%B8%B0) 
+> > 15. 동물 수 구하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level2/%EB%8F%99%EB%AC%BC%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0) 
+> > 16. 중복 제거하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level2/%EC%A4%91%EB%B3%B5%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) 
 
 **[⬆ Back to Top](#overview)**

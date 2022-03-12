@@ -428,5 +428,8 @@
 > > 18. 있었는데요 없었습니다 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level3/%EC%9E%88%EC%97%88%EB%8A%94%EB%8D%B0%EC%9A%94%EC%97%86%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4) 
 > > 19. 오랜기간 보호한 동물1 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level3/%EC%98%A4%EB%9E%9C%EA%B8%B0%EA%B0%84%EB%B3%B4%ED%98%B8%ED%95%9C%EB%8F%99%EB%AC%BC1) 
 > > 20. 입양 시각 구하기1 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/SQL/Programmers/Level2/%EC%9E%85%EC%96%91%EC%8B%9C%EA%B0%81%EA%B5%AC%ED%95%98%EA%B8%B01) 
+>
+> #### 2022.3.12 토
+> > 1. 짝수와 홀수 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%A7%9D%EC%88%98%EC%99%80%ED%99%80%EC%88%98) 
 
 **[⬆ Back to Top](#overview)**

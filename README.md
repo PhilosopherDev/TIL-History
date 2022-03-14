@@ -439,5 +439,8 @@
 >
 > #### 2022.3.13 일
 > > 1. 제일 작은 수 제거하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%A0%9C%EC%9D%BC%EC%9E%91%EC%9D%80%EC%88%98%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) 
+>
+> #### 2022.3.14 월
+> > 1. 평균 구하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0) 
 
 **[⬆ Back to Top](#overview)**

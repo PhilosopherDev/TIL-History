@@ -442,5 +442,8 @@
 >
 > #### 2022.3.14 월
 > > 1. 평균 구하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%ED%8F%89%EA%B7%A0%EA%B5%AC%ED%95%98%EA%B8%B0) 
+>
+> #### 2022.3.15 화
+> > 1. 최솟값 만들기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0) 
 
 **[⬆ Back to Top](#overview)**

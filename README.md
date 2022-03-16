@@ -445,5 +445,9 @@
 >
 > #### 2022.3.15 화
 > > 1. 최솟값 만들기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%B5%9C%EC%86%9F%EA%B0%92%EB%A7%8C%EB%93%A4%EA%B8%B0) 
+>
+> #### 2022.3.16 수
+> > 1. 최댓값과 최솟값 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92) 
+
 
 **[⬆ Back to Top](#overview)**

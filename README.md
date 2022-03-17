@@ -448,6 +448,9 @@
 >
 > #### 2022.3.16 수
 > > 1. 최댓값과 최솟값 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%B5%9C%EB%8C%93%EA%B0%92%EA%B3%BC%EC%B5%9C%EC%86%9F%EA%B0%92) 
+>
+> #### 2022.3.17 목
+> > 1. 올바른 괄호 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%98%AC%EB%B0%94%EB%A5%B8%EA%B4%84%ED%98%B8) 
 
 
 **[⬆ Back to Top](#overview)**

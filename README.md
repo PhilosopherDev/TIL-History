@@ -465,5 +465,8 @@
 >
 > #### 2022.3.20 일
 > > 1. 다음 큰 숫자 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EC%9D%8C%ED%81%B0%EC%88%AB%EC%9E%90) 
+>
+> #### 2022.3.21 월
+> > 1. 문자열 내 마음대로 정렬하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0) 
 
 **[⬆ Back to Top](#overview)**

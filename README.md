@@ -471,5 +471,8 @@
 >
 > #### 2022.3.22 화
 > > 1. 자연수 뒤집어 배열로 만들기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%9E%90%EC%97%B0%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A1%9C%EB%A7%8C%EB%93%A4%EA%B8%B0) 
+>
+> #### 2022.3.23 수
+> > 1. 약수의 합 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%95%BD%EC%88%98%EC%9D%98%ED%95%A9) 
 
 **[⬆ Back to Top](#overview)**

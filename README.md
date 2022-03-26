@@ -21,6 +21,7 @@
     - [2022년 3월 2주차](#2022년-3월-2주차)
     - [2022년 3월 3주차](#2022년-3월-3주차)
     - [2022년 3월 4주차](#2022년-3월-4주차)
+    - [2022년 3월 5주차](#2022년-3월-5주차)
 
 ## 2021년 12월
 
@@ -480,5 +481,12 @@
 >
 > #### 2022.3.25 금
 > > 1. 문자열 다루기 기본 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%8B%A4%EB%A3%A8%EA%B8%B0%EA%B8%B0%EB%B3%B8) 
+
+**[⬆ Back to Top](#overview)**
+
+> ### 2022년 3월 5주차
+>
+> #### 2022.3.27 일
+> > 1. 시저 암호 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8) 
 
 **[⬆ Back to Top](#overview)**

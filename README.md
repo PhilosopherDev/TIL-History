@@ -382,7 +382,6 @@
 
 ### 2022년 3월 1주차
 
->
 > #### 2022.2.28 월
 > > 1. 콜라츠 추측 - ✏️ [Blog](https://philosopherprogrammer.com/105) 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%BD%9C%EB%9D%BC%EC%B8%A0%EC%B6%94%EC%B8%A1) 
 >
@@ -400,8 +399,8 @@
 
 **[⬆ Back to Top](#overview)**
 
-> ### 2022년 3월 2주차
->
+### 2022년 3월 2주차
+
 > #### 2022.3.6 일
 > > 1. Readme-generator (Side Project) - Education lecture section 별 정리 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
 > 
@@ -438,8 +437,8 @@
 
 **[⬆ Back to Top](#overview)**
 
-> ### 2022년 3월 3주차
->
+### 2022년 3월 3주차
+
 > #### 2022.3.13 일
 > > 1. 제일 작은 수 제거하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%A0%9C%EC%9D%BC%EC%9E%91%EC%9D%80%EC%88%98%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) 
 >
@@ -463,8 +462,8 @@
 
 **[⬆ Back to Top](#overview)**
 
-> ### 2022년 3월 4주차
->
+### 2022년 3월 4주차
+
 > #### 2022.3.20 일
 > > 1. 다음 큰 숫자 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EB%8B%A4%EC%9D%8C%ED%81%B0%EC%88%AB%EC%9E%90) 
 >
@@ -488,8 +487,10 @@
 
 **[⬆ Back to Top](#overview)**
 
-> ### 2022년 4월 1주차
->
+## 2022년 4월
+
+### 2022년 4월 1주차
+
 > #### 2022.3.27 일
 > > 1. N개의 최소공배수 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/N%EA%B0%9C%EC%9D%98%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) 
 

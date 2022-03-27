@@ -21,6 +21,8 @@
     - [2022년 3월 2주차](#2022년-3월-2주차)
     - [2022년 3월 3주차](#2022년-3월-3주차)
     - [2022년 3월 4주차](#2022년-3월-4주차)
+  - [2022년 4월](#2022년-4월)
+    - [2022년 4월 1주차](#2022년-4월-1주차)
 
 ## 2021년 12월
 
@@ -483,5 +485,12 @@
 > 
 > #### 2022.3.26 토
 > > 1. 시저 암호 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%8B%9C%EC%A0%80%EC%95%94%ED%98%B8) 
+
+**[⬆ Back to Top](#overview)**
+
+> ### 2022년 4월 1주차
+>
+> #### 2022.3.27 일
+> > 1. N개의 최소공배수 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/N%EA%B0%9C%EC%9D%98%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) 
 
 **[⬆ Back to Top](#overview)**

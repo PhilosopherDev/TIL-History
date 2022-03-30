@@ -493,5 +493,7 @@
 
 > #### 2022.3.27 일
 > > 1. N개의 최소공배수 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/N%EA%B0%9C%EC%9D%98%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) 
+> #### 2022.3.30 수
+> > 1. REST-countries (Challenge) - create-react-app init 🗄️ [Github](https://github.com/PhilosopherProgrammer/REST-countries-API-with-color-theme-switcher)
 
 **[⬆ Back to Top](#overview)**

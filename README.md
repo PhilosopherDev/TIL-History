@@ -497,5 +497,8 @@
 > #### 2022.3.30 수
 > > 1. REST-countries (Challenge) - create-react-app init 🗄️ [Github](https://github.com/PhilosopherProgrammer/REST-countries-API-with-color-theme-switcher)
 > > 2. 삼각 달팽이 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%82%BC%EA%B0%81%EB%8B%AC%ED%8C%BD%EC%9D%B4) 
+>
+> #### 2022.3.31 목
+> > 1. 수박수박수박수박수박수? - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98) 
 
 **[⬆ Back to Top](#overview)**

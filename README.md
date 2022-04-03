@@ -23,6 +23,7 @@
     - [2022년 3월 4주차](#2022년-3월-4주차)
   - [2022년 4월](#2022년-4월)
     - [2022년 4월 1주차](#2022년-4월-1주차)
+    - [2022년 4월 2주차](#2022년-4월-2주차)
 
 ## 2021년 12월
 
@@ -506,5 +507,12 @@
 >
 > #### 2022.4.2 토
 > > 1. 이진 변환 반복하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EC%9D%B4%EC%A7%84%EB%B3%80%ED%99%98%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)
+
+**[⬆ Back to Top](#overview)**
+
+### 2022년 4월 2주차
+
+> #### 2022.4.3 일
+> > 1. n^2 배열 자르기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/n%EC%A0%9C%EA%B3%B1%EB%B0%B0%EC%97%B4%EC%9E%90%EB%A5%B4%EA%B8%B0) 
 
 **[⬆ Back to Top](#overview)**

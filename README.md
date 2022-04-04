@@ -514,5 +514,7 @@
 
 > #### 2022.4.3 일
 > > 1. n^2 배열 자르기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/n%EC%A0%9C%EA%B3%B1%EB%B0%B0%EC%97%B4%EC%9E%90%EB%A5%B4%EA%B8%B0) 
+> #### 2022.4.4 월
+> > 1. 야근 지수 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level3/%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98) 
 
 **[⬆ Back to Top](#overview)**

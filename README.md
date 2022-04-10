@@ -24,6 +24,7 @@
   - [2022년 4월](#2022년-4월)
     - [2022년 4월 1주차](#2022년-4월-1주차)
     - [2022년 4월 2주차](#2022년-4월-2주차)
+    - [2022년 4월 3주차](#2022년-4월-3주차)
 
 ## 2021년 12월
 
@@ -524,5 +525,12 @@
 > > 1. 최대공약수와 최소공배수 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%B5%9C%EB%8C%80%EA%B3%B5%EC%95%BD%EC%88%98%EC%99%80%EC%B5%9C%EC%86%8C%EA%B3%B5%EB%B0%B0%EC%88%98) 
 > #### 2022.4.9 토
 > > 1. 내적 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EB%82%B4%EC%A0%81) 
+
+**[⬆ Back to Top](#overview)**
+
+### 2022년 4월 3주차
+
+> #### 2022.4.10 일
+> > 1. 직사각형 별찍기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EB%B3%84%EC%B0%8D%EA%B8%B0) 
 
 **[⬆ Back to Top](#overview)**

@@ -532,5 +532,8 @@
 
 > #### 2022.4.10 일
 > > 1. 직사각형 별찍기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95%EB%B3%84%EC%B0%8D%EA%B8%B0) 
+> #### 2022.4.11 월
+> > 1. Asynchronous JavaScript Deep Dive - Callback 예제 1개 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+
 
 **[⬆ Back to Top](#overview)**

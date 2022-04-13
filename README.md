@@ -536,6 +536,7 @@
 > > 1. Asynchronous JavaScript Deep Dive - Callback setTimeout 예제 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
 > #### 2022.4.12 화
 > > 1. Asynchronous JavaScript Deep Dive - Callback processStudents 예제 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
-
+> #### 2022.4.13 수
+> > 1. 3진법 뒤집기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/3%EC%A7%84%EB%B2%95%EB%92%A4%EC%A7%91%EA%B8%B0) 
 
 **[⬆ Back to Top](#overview)**

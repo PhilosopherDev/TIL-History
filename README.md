@@ -542,5 +542,7 @@
 > > 1. 에산 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%98%88%EC%82%B0) 
 > #### 2022.4.15 금
 > > 1. 괄호 회전하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0) 
+> #### 2022.4.16 토
+> > 1. 행렬의 곱셈 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%88) 
 
 **[⬆ Back to Top](#overview)**

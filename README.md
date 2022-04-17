@@ -25,6 +25,7 @@
     - [2022년 4월 1주차](#2022년-4월-1주차)
     - [2022년 4월 2주차](#2022년-4월-2주차)
     - [2022년 4월 3주차](#2022년-4월-3주차)
+    - [2022년 4월 4주차](#2022년-4월-4주차)
 
 ## 2021년 12월
 
@@ -544,5 +545,12 @@
 > > 1. 괄호 회전하기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%EA%B4%84%ED%98%B8%ED%9A%8C%EC%A0%84%ED%95%98%EA%B8%B0) 
 > #### 2022.4.16 토
 > > 1. 행렬의 곱셈 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level2/%ED%96%89%EB%A0%AC%EC%9D%98%EA%B3%B1%EC%85%88) 
+
+**[⬆ Back to Top](#overview)**
+
+### 2022년 4월 4주차
+
+> #### 2022.4.17 일
+> > 1. 소수 만들기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0) 
 
 **[⬆ Back to Top](#overview)**

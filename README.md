@@ -552,5 +552,6 @@
 
 > #### 2022.4.17 일
 > > 1. 소수 만들기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0) 
+>
 
 **[⬆ Back to Top](#overview)**

@@ -554,5 +554,7 @@
 > > 1. 소수 만들기 - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/Programmers/Level1/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0) 
 > #### 2022.4.20 수
 > > 1. Remove Duplicates from Sorted Array - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/26) 
+> #### 2022.4.21 목
+> > 1. Remove Element - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/27) 
 
 **[⬆ Back to Top](#overview)**

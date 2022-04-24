@@ -26,6 +26,7 @@
     - [2022년 4월 2주차](#2022년-4월-2주차)
     - [2022년 4월 3주차](#2022년-4월-3주차)
     - [2022년 4월 4주차](#2022년-4월-4주차)
+    - [2022년 4월 5주차](#2022년-4월-5주차)
 
 ## 2021년 12월
 
@@ -556,5 +557,13 @@
 > > 1. Remove Duplicates from Sorted Array - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/26) 
 > #### 2022.4.21 목
 > > 1. Remove Element - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/27) 
->
+
+**[⬆ Back to Top](#overview)**
+
+### 2022년 4월 5주차
+
+> #### 2022.4.24 일
+> > 1. Asynchronous JavaScript Deep Dive - Exercise 0 - setTimeout 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+
+
 **[⬆ Back to Top](#overview)**

@@ -564,6 +564,8 @@
 
 > #### 2022.4.24 일
 > > 1. Asynchronous JavaScript Deep Dive - Exercise 0 - setTimeout 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+> #### 2022.4.25 월
+> > 1. Asynchronous JavaScript Deep Dive - Callback problem example 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
 
 
 **[⬆ Back to Top](#overview)**

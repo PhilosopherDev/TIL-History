@@ -568,5 +568,7 @@
 > > 1. Asynchronous JavaScript Deep Dive - Callback problem example 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
 > #### 2022.4.26 화
 > > 1. Asynchronous JavaScript Deep Dive - Understanding Promises 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+> #### 2022.4.27 수
+> > 1. Asynchronous JavaScript Deep Dive - Using Promises Part1 example 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
 
 **[⬆ Back to Top](#overview)**

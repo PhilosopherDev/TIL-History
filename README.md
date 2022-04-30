@@ -572,5 +572,7 @@
 > > 1. Asynchronous JavaScript Deep Dive - Using Promises Part1 example 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
 > #### 2022.4.28 목
 > > 1. Asynchronous JavaScript Deep Dive - Using Promises Part2 example 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+> #### 2022.4.30 토
+> > 1. Asynchronous JavaScript Deep Dive - Using Promises Part2 example 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
 
 **[⬆ Back to Top](#overview)**

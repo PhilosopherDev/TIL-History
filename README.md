@@ -27,6 +27,8 @@
     - [2022년 4월 3주차](#2022년-4월-3주차)
     - [2022년 4월 4주차](#2022년-4월-4주차)
     - [2022년 4월 5주차](#2022년-4월-5주차)
+  - [2022년 5월](#2022년-5월)
+    - [2022년 5월 1주차](#2022년-5월-1주차)
 
 ## 2021년 12월
 
@@ -574,5 +576,15 @@
 > > 1. Asynchronous JavaScript Deep Dive - Using Promises Part2 example 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
 > #### 2022.4.30 토
 > > 1. Asynchronous JavaScript Deep Dive - Using Promises Part2 example 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+
+**[⬆ Back to Top](#overview)**
+
+## 2022년 5월
+
+### 2022년 5월 1주차
+
+> #### 2022.5.1 일
+> > 1. Asynchronous JavaScript Deep Dive - Promise example 1 - Star Wars Data 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+
 
 **[⬆ Back to Top](#overview)**

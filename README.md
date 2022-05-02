@@ -585,6 +585,8 @@
 
 > #### 2022.5.1 일
 > > 1. Asynchronous JavaScript Deep Dive - Promise example 1 - Star Wars Data 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+> #### 2022.5.2 월
+> > 1. React Hooks Explaind - useState, useEffect example 🗄️ [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Expalained)
 
 
 **[⬆ Back to Top](#overview)**

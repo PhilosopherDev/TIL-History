@@ -588,7 +588,9 @@
 > #### 2022.5.2 월
 > > 1. React Hooks Explaind - useState, useEffect example 🗄️ [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Expalained)
 > #### 2022.5.3 화
-> > 1. React Hooks Explaind - useReducer example 🗄️ [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Expalained)
+> > 1. React Hooks Explaind - useReducer example Counter2 🗄️ [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Expalained)
+> #### 2022.5.4 수
+> > 1. React Hooks Explaind - useReducer example Info2 🗄️ [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Expalained)
 
 
 **[⬆ Back to Top](#overview)**

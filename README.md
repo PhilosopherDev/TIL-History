@@ -29,6 +29,7 @@
     - [2022년 4월 5주차](#2022년-4월-5주차)
   - [2022년 5월](#2022년-5월)
     - [2022년 5월 1주차](#2022년-5월-1주차)
+    - [2022년 5월 2주차](#2022년-5월-2주차)
 
 ## 2021년 12월
 
@@ -598,5 +599,11 @@
 > #### 2022.5.7 토
 > > 1. React Hooks Explaind - useRef example Average 🗄️ [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Expalained)
 
+**[⬆ Back to Top](#overview)**
+
+### 2022년 5월 1주차
+
+> #### 2022.5.8 일
+> > 1. Asynchronous JavaScript Deep Dive - Custom hook example useInputs 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
 
 **[⬆ Back to Top](#overview)**

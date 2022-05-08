@@ -604,6 +604,7 @@
 ### 2022년 5월 1주차
 
 > #### 2022.5.8 일
-> > 1. Asynchronous JavaScript Deep Dive - Custom hook example useInputs 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+> > 1. React Hooks Explaind - Custom hook example useInputs 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+> > 2. todo app react - init 🗄️ [Github](https://github.com/PhilosopherProgrammer/todo-app-react)
 
 **[⬆ Back to Top](#overview)**

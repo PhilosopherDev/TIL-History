@@ -604,7 +604,7 @@
 ### 2022년 5월 2주차
 
 > #### 2022.5.8 일
-> > 1. React Hooks Explaind - Custom hook example useInputs 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+> > 1. React Hooks Explaind - Custom hook example useInputs 🗄️ [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Expalained)
 > > 2. todo app react - init 🗄️ [Github](https://github.com/PhilosopherProgrammer/todo-app-react)
 > > 3. [flexfroggy](https://flexboxfroggy.com/) - level 1 to 24
 

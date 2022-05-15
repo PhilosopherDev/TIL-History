@@ -30,6 +30,7 @@
   - [2022년 5월](#2022년-5월)
     - [2022년 5월 1주차](#2022년-5월-1주차)
     - [2022년 5월 2주차](#2022년-5월-2주차)
+    - [2022년 5월 3주차](#2022년-5월-3주차)
 
 ## 2021년 12월
 
@@ -617,6 +618,13 @@
 > > 1. react key and list check, reuse component made by map func  🗄️ [Github](https://github.com/PhilosopherProgrammer/react-key-and-list)
 > #### 2022.5.14 토
 > > 1. todo app react - Add Todo Insert 🗄️ [Github](https://github.com/PhilosopherProgrammer/todo-app-react)
+
+**[⬆ Back to Top](#overview)**
+
+### 2022년 5월 3주차
+
+> #### 2022.5.15 일
+> > 1. Implement strStr() - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/28) 
 
 
 **[⬆ Back to Top](#overview)**

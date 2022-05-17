@@ -625,6 +625,10 @@
 
 > #### 2022.5.15 일
 > > 1. Implement strStr() - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/28) 
+> #### 2022.5.16 월
+> > 1. Search Insert Position - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/35) 
+> #### 2022.5.17 화
+> > 1. CSS3 Master - Transition, Transform 예제 🗄️ [Github](https://github.com/PhilosopherProgrammer/CSS3-Master)
 
 
 **[⬆ Back to Top](#overview)**

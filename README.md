@@ -631,6 +631,8 @@
 > > 1. CSS3 Master - Transition, Transform 예제 🗄️ [Github](https://github.com/PhilosopherProgrammer/CSS3-Master)
 > #### 2022.5.18 수
 > > 1. Length of Last Word - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/58) 
+> #### 2022.5.19 금
+> > 1. Plus One - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/66) 
 
 
 

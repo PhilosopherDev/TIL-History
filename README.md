@@ -643,5 +643,7 @@
 > > 1. zero to mastery add my name pull request 🎯 [Open Source](https://github.com/PhilosopherProgrammer/start-here-guidelines)
 > #### 2022.5.23 월
 > > 1. Sqrt(x) - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/69) 
+> #### 2022.5.24 화
+> > 1. Add Binary - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/67) 
 
 **[⬆ Back to Top](#overview)**

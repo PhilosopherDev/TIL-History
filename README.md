@@ -645,5 +645,7 @@
 > > 1. Sqrt(x) - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/69) 
 > #### 2022.5.24 화
 > > 1. Add Binary - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/67) 
+> #### 2022.5.26 목
+> > 1. Remove Duplicates from Sorted List - 💻 [Code](https://github.com/PhilosopherProgrammer/Coding-Test-Practice/tree/main/CodingTestPlatform/LeetCode/1_Easy/83) 
 
 **[⬆ Back to Top](#overview)**

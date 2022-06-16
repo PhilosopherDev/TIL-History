@@ -33,6 +33,7 @@
     - [2022년 5월 3주차](#2022년-5월-3주차)
     - [2022년 5월 4주차](#2022년-5월-4주차)
   - [2022년 6월](#2022년-6월)
+    - [2022년 6월 3주차](#2022년-6월-3주차)
 
 ## 2021년 12월
 
@@ -656,6 +657,8 @@
 ### 2022년 6월 3주차
 
 > #### 2022.6.14 화
-> > 1. CSS 설계 실전 가이드 - 예제 
+> > 1. CSS 설계 실전 가이드 - Ch2 샘플 예제 🗄️ [Github]([https://github.com/PhilosopherProgrammer/CSS3-Master](https://github.com/PhilosopherProgrammer/CSS-Design-Practical-Guide)
+> #### 2022.6.17 금
+> > 2. CSS 설계 실전 가이드 - Ch2 샘플 예제 🗄️ [Github]([https://github.com/PhilosopherProgrammer/CSS3-Master](https://github.com/PhilosopherProgrammer/CSS-Design-Practical-Guide)
 
 **[⬆ Back to Top](#overview)**

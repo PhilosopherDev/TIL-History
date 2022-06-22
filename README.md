@@ -668,5 +668,7 @@
 
 > #### 2022.6.19 일
 > > 1. CSS 설계 실전 가이드 - Ch2 포인트 1. 특성에 따라 CSS를 분류한다. 베이스, 레이아웃, 블럭 🗄️ [Github](https://github.com/PhilosopherProgrammer/CSS-Design-Practical-Guide)
+> #### 2022.6.22 수
+> > 1. CSS 설계 실전 가이드 - Ch2 포인트 2. HTML과 스타일링을 느슨하게 결합한다. - init 🗄️ [Github](https://github.com/PhilosopherProgrammer/CSS-Design-Practical-Guide)
 
 **[⬆ Back to Top](#overview)**

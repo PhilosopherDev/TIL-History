@@ -35,6 +35,7 @@
   - [2022년 6월](#2022년-6월)
     - [2022년 6월 3주차](#2022년-6월-3주차)
     - [2022년 6월 4주차](#2022년-6월-4주차)
+    - [2022년 6월 5주차](#2022년-6월-5주차)
 
 ## 2021년 12월
 
@@ -670,5 +671,12 @@
 > > 1. CSS 설계 실전 가이드 - Ch2 포인트 1. 특성에 따라 CSS를 분류한다. 베이스, 레이아웃, 블럭 🗄️ [Github](https://github.com/PhilosopherProgrammer/CSS-Design-Practical-Guide)
 > #### 2022.6.22 수
 > > 1. CSS 설계 실전 가이드 - Ch2 포인트 2. HTML과 스타일링을 느슨하게 결합한다. - init 🗄️ [Github](https://github.com/PhilosopherProgrammer/CSS-Design-Practical-Guide)
+
+**[⬆ Back to Top](#overview)**
+
+### 2022년 6월 5주차
+
+> #### 2022.6.28 화
+> > 1. 코로나보드로 배우는 실전 웹 서비스 개발 Ch2 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
 
 **[⬆ Back to Top](#overview)**

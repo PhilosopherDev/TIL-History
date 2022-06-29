@@ -677,6 +677,6 @@
 ### 2022년 6월 5주차
 
 > #### 2022.6.28 화
-> > 1. 코로나보드로 배우는 실전 웹 서비스 개발 Ch2 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
+> > 1. 코로나보드로 배우는 실전 웹 서비스 개발 Ch2 - MySQL 설치 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
 
 **[⬆ Back to Top](#overview)**

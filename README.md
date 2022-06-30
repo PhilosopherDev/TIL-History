@@ -678,5 +678,8 @@
 
 > #### 2022.6.28 화
 > > 1. 코로나보드로 배우는 실전 웹 서비스 개발 Ch2 - MySQL 설치 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
+> #### 2022.6.30 목
+> > 1. 코로나보드로 배우는 실전 웹 서비스 개발 Ch2 - Sequelize 로 model 생성 및 mysql - node 연결 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
+
 
 **[⬆ Back to Top](#overview)**

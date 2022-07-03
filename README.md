@@ -36,6 +36,8 @@
     - [2022년 6월 3주차](#2022년-6월-3주차)
     - [2022년 6월 4주차](#2022년-6월-4주차)
     - [2022년 6월 5주차](#2022년-6월-5주차)
+  - [2022년 7월](#2022년-7월)    
+    - [2022년 7월 1주차](#2022년-7월-1주차)
 
 ## 2021년 12월
 
@@ -677,9 +679,18 @@
 ### 2022년 6월 5주차
 
 > #### 2022.6.28 화
-> > 1. 코로나보드로 배우는 실전 웹 서비스 개발 Ch2 - MySQL 설치 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
+> > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch2. MySQL 설치 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
 > #### 2022.6.30 목
-> > 1. 코로나보드로 배우는 실전 웹 서비스 개발 Ch2 - Sequelize 로 model 생성 및 mysql - node 연결 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
+> > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch2. Sequelize 로 model 생성 및 mysql - node 연결 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
+
+**[⬆ Back to Top](#overview)**
+
+## 2022년 7월
+
+### 2022년 7월 1주차
+
+> #### 2022.7.3 일
+> > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch2. API 서버 만들기 Global-Stats, Key-Value 모델, 컨트롤러, 라우트 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
 
 
 **[⬆ Back to Top](#overview)**

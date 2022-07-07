@@ -693,5 +693,6 @@
 > > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch2. API 서버 만들기 Global-Stats, Key-Value 모델, 컨트롤러, 라우트 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
 > #### 2022.7.6 수
 > > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch3. 구글시트 프로젝트 생성 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
-
+> #### 2022.7.7 목
+> > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch3. 구글시트 토큰 발행 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
 **[⬆ Back to Top](#overview)**

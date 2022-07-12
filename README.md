@@ -702,6 +702,8 @@
 ### 2022년 7월 2주차
 > #### 2022.7.11 월
 > > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch3. 구글시트 다운로드 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
+> #### 2022.7.12 화
+> > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch5. Gatsby init 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
 
 
 **[⬆ Back to Top](#overview)**

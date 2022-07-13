@@ -704,6 +704,8 @@
 > > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch3. 구글시트 다운로드 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
 > #### 2022.7.12 화
 > > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch5. Gatsby init 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
+> #### 2022.7.13 수
+> > 1. 코로나 보드로 배우는 실전 웹 서비스 개발 - Ch5. Gatsby 리액트 컴포넌트 추가, 정적 웹페이지 생성 🗄️ [Github](https://github.com/PhilosopherProgrammer/Corona-Board)
 
 
 **[⬆ Back to Top](#overview)**

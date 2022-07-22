@@ -713,5 +713,8 @@
 ### 2022년 7월 4주차
 > #### 2022.7.18 월
 > > 1. Asynchronous JavaScript Deep Dive - fetch scrabble score 🎓 [Lecture](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+> #### 2022.7.22 금
+> > 1. HTML5 캔버스 완벽 가이드 - Hello Canvas! 🗄️ [Github](https://github.com/PhilosopherProgrammer/core-html5-canvas)
+
 
 **[⬆ Back to Top](#overview)**

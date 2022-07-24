@@ -722,6 +722,6 @@
 
 ### 2022년 7월 5주차
 > #### 2022.7.24 일
-> > 1. Readme-generator - google sheet 연결 🗄️ [https://github.com/PhilosopherProgrammer/readme-generator)
+> > 1. Readme-generator - google sheet 연결 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
 
 **[⬆ Back to Top](#overview)**

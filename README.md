@@ -40,6 +40,7 @@
     - [2022년 7월 2주차](#2022년-7월-2주차)
     - [2022년 7월 3주차](#2022년-7월-3주차)
     - [2022년 7월 4주차](#2022년-7월-4주차)
+    - [2022년 7월 5주차](#2022년-7월-5주차)
 
 ## 2021년 12월
 
@@ -716,5 +717,11 @@
 > #### 2022.7.22 금
 > > 1. HTML5 캔버스 완벽 가이드 - Hello Canvas! 🗄️ [Github](https://github.com/PhilosopherProgrammer/core-html5-canvas)
 
+
+**[⬆ Back to Top](#overview)**
+
+### 2022년 7월 5주차
+> #### 2022.7.24 일
+> > 1. Readme-generator - google sheet 연결 🗄️ [https://github.com/PhilosopherProgrammer/readme-generator)
 
 **[⬆ Back to Top](#overview)**

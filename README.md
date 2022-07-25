@@ -723,5 +723,7 @@
 ### 2022년 7월 5주차
 > #### 2022.7.24 일
 > > 1. Readme-generator - google sheet 연결 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
+> #### 2022.7.25 월
+> > 2. Frontend Mentor - Space tourism multi-page website init 🗄️ [Github](https://github.com/PhilosopherProgrammer/space-tourism-website-main)
 
 **[⬆ Back to Top](#overview)**

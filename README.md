@@ -747,6 +747,7 @@
 > #### 2022.8.14 일
 > > 1. Frontend Mentor - Space tourism website Typography, spacing 🗄️ [Github](https://github.com/PhilosopherProgrammer/space-tourism-website-main)
 > #### 2022.8.15 월
-> > 1. Frontend Mentor - Space tourism website 🗄️ [Github](https://github.com/PhilosopherProgrammer/space-tourism-website-main)
+> > 1. Frontend Mentor - Space tourism website Component(large button) 🗄️ [Github](https://github.com/PhilosopherProgrammer/space-tourism-website-main)
+> > 2. Sentence Shaker - multiline 지원, 한페이지로 통합 🗄️ [Github](https://github.com/PhilosopherProgrammer/sentence-shaker)
 
 **[⬆ Back to Top](#overview)**

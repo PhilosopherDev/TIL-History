@@ -43,6 +43,7 @@
     - [2022년 7월 5주차](#2022년-7월-5주차)
   - [2022년 8월](#2022년-8월)
     - [2022년 8월 2주차](#2022년-8월-2주차)
+    - [2022년 8월 3주차](#2022년-8월-3주차)
 
 ## 2021년 12월
 
@@ -735,6 +736,17 @@
 ### 2022년 8월 2주차
 
 > #### 2022.8.7 일
+> > 1. Frontend Mentor - Space tourism website 🗄️ [Github](https://github.com/PhilosopherProgrammer/space-tourism-website-main)
+> #### 2022.8.13 토
+> > 1. Frontend Mentor - Space tourism website Color 🗄️ [Github](https://github.com/PhilosopherProgrammer/space-tourism-website-main)
+
+**[⬆ Back to Top](#overview)**
+
+### 2022년 8월 3주차
+
+> #### 2022.8.14 일
+> > 1. Frontend Mentor - Space tourism website Typography, spacing 🗄️ [Github](https://github.com/PhilosopherProgrammer/space-tourism-website-main)
+> #### 2022.8.15 월
 > > 1. Frontend Mentor - Space tourism website 🗄️ [Github](https://github.com/PhilosopherProgrammer/space-tourism-website-main)
 
 **[⬆ Back to Top](#overview)**
